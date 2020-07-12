@@ -1,0 +1,19 @@
+.table tbody tr td ul li {
+    margin-left: 10px;
+}
+
+.card-header a button {
+    float: right;
+    background-color: #0099FF;
+    color: #fff;
+    border: 1px solid #fff;
+    width: 90px;
+}
+
+.card-footer {
+    float: right;
+}
+
+.them {
+    float: right;
+}
